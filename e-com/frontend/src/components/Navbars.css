@@ -1,0 +1,5 @@
+input[type="search"] {
+  border-radius: 30px;
+  padding-left: 10px;
+  min-width: 180px;
+}
